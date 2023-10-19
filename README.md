@@ -239,7 +239,7 @@ To count the rows where species is 'Iris-virginica':
 
 To retrive Minimum Value for Sepal_Length:
 
-    SELECT MIN(sepal_width) AS min_sepal_width 
+    SELECT MIN(sepal_length) AS min_sepal_length 
     FROM IRIS
 
 
